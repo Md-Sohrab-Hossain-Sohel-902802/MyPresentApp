@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "301933881429",
+    "firebase_url": "https://image-443e5.firebaseio.com",
+    "project_id": "image-443e5",
+    "storage_bucket": "image-443e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301933881429:android:57f441ba52163b9a9cccdc",
+        "android_client_info": {
+          "package_name": "com.example.facebook_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301933881429-u5rotmlll0ki99inqdduof1qb9fnestj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOaTcViZj8bBbCPWESt8vbExHQolGb9C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301933881429-u5rotmlll0ki99inqdduof1qb9fnestj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301933881429:android:0481dc6a05e363e79cccdc",
+        "android_client_info": {
+          "package_name": "com.example.mypresentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301933881429-u5rotmlll0ki99inqdduof1qb9fnestj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOaTcViZj8bBbCPWESt8vbExHQolGb9C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301933881429-u5rotmlll0ki99inqdduof1qb9fnestj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301933881429:android:78c895ac8854e7b59cccdc",
+        "android_client_info": {
+          "package_name": "com.example.saveandretriveimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301933881429-u5rotmlll0ki99inqdduof1qb9fnestj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOaTcViZj8bBbCPWESt8vbExHQolGb9C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301933881429-u5rotmlll0ki99inqdduof1qb9fnestj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
